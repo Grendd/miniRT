@@ -1,6 +1,9 @@
 # miniRT, project from 21 School.
 
 ## It's a raytracing project, written on C.
+![scene.rt](/scenes/scene.rt)
+
+
 
 ### How to build:
 ```
