@@ -1,8 +1,8 @@
 # miniRT, project from 21 School.
 
-### It's a raytracing project, written on C.
+## It's a raytracing project, written on C.
 
-How to build:
+### How to build:
 ```
 git clone https://github.com/Grendd/miniRT.git miniRT
 cd miniRT
